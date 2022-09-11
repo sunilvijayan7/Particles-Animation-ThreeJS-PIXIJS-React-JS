@@ -2,7 +2,7 @@
 
 > See the demo video
 
-<iframe id="video" width="560" height="315" src="https://github.com/sunilvijayan7/Particles-Animation-ThreeJS-PIXIJS-React-JS/blob/main/Demo/demo.mov" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe id="video" width="560" height="315" src="https://raw.githubusercontent.com/sunilvijayan7/Particles-Animation-ThreeJS-PIXIJS-React-JS/blob/main/Demo/demo.mov" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ## Technologies
 

@@ -2,7 +2,7 @@
 
 > See the demo video
 
-https://codepen.io/codedesignmonk/pen/ExLyEeo
+https://codepen.io/sunilvijayan/pen/zYjBjBL
 
 ## Technologies
 
